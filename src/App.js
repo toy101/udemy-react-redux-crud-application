@@ -1,13 +1,10 @@
+import React from 'react';
 
 function App() {
   return (
-    <div>
-      <header>
-        <h1>
+    <h1>
           Hello, world!
-        </h1>
-      </header>
-    </div>
+    </h1>
   );
 }
 
